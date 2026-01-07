@@ -1,4 +1,4 @@
-# 🧭 The Strategic Profit Compass
+# 🧭 Executive Analytics Dashboard
 ### *Bridging Transactional Data to C-Suite Strategy*
 
 https://executive-analytics.streamlit.app/
