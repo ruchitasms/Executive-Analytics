@@ -12,7 +12,7 @@ This tool isolates the drivers of profit—**Volume, Price, and Cost**—and pro
 The project is built on three pillars of "Managerial Intelligence":
 
 1. **The Profit Bridge (Waterfall):** A Year-over-Year (YoY) analysis that decomposes profit changes into Price Effect, Volume Mix, and Cost Inflation.
-2. **Strategic Simulation Engine:** A "What-If" environment allowing users to adjust price elasticity and supply-side cost reductions for specific product lines (e.g., Aura-Grid, Flux-Chiller).
+2. **Strategic Simulation Engine:** A "What-If" environment allowing users to adjust price elasticity and supply-side cost reductions for specific product lines.
 3. **Deep-Dive Analytics:** Monthly trend analysis with granular product filters to identify seasonality and margin leakage.
 
 ## 🧮 Logic & Methodology
